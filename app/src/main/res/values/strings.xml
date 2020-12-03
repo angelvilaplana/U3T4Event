@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name" translatable="false">U3T4Event</string>
+    <string name="tvNewEvent">New Event</string>
+    <string name="etEventName">Type an event name</string>
+    <string name="tvCurrentData">Current Data</string>
+    <string name="btEditEventData">Edit Event Data</string>
+    <string name="title_activity_event_data">Event Data</string>
+    <string name="tvPriority">Priority</string>
+    <string name="rbLow">Low</string>
+    <string name="rbNormal">Normal</string>
+    <string name="rbHigh">High</string>
+    <string name="tvDateTime">Set Date and Time</string>
+    <string name="btAccept">Accept</string>
+    <string name="btCancel">Cancel</string>
+    <string name="tvEventName">Large Text</string>
+    <string name="tvPlace">Place</string>
+    <string name="etPlaceName">Type a place name</string>
+    <string name="dateName">Date</string>
+    <string name="hourName">Hour</string>
+    <string name="btSelectDate">Select Date</string>
+    <string name="btSelectTime">Select Time</string>
+</resources>

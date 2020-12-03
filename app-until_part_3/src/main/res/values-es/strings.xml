@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tvNewEvent">Nuevo Evento</string>
+    <string name="etEventName">Introduzca el nombre del evento</string>
+    <string name="tvCurrentData">Datos actuales</string>
+    <string name="btEditEventData">Editar Datos del Evento</string>
+    <string name="title_activity_event_data">Datos del Evento</string>
+    <string name="tvPriority">Prioridad</string>
+    <string name="rbLow">Baja</string>
+    <string name="rbNormal">Normal</string>
+    <string name="rbHigh">Alta</string>
+    <string name="tvDateTime">Fecha y Hora</string>
+    <string name="btAccept">Aceptar</string>
+    <string name="btCancel">Cancelar</string>
+    <string name="tvEventName">Texto grande</string>
+    <string name="tvPlace">Lugar</string>
+    <string name="etPlaceName">Introduzca el nombre del lugar</string>
+</resources>

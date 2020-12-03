@@ -1,0 +1,5 @@
+include ':app-until_part_3'
+include ':app-until-part-3'
+include ':app-guided'
+include ':app'
+rootProject.name = "U3T4Event"
